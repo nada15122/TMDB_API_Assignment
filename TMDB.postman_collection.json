@@ -131,7 +131,7 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "{{base_url}}/search/tv?query=breaking+bad&language=en-U",
+          "raw": "{{base_url}}/search/tv?query=breaking+bad&language=en-US",
           "host": [
             "{{base_url}}"
           ],
